@@ -1,4 +1,3 @@
-# KL-1 Authentic Check AI
 # KL-1: Vision Transformer for Fake/Real Shoe Classification
 
 ## Mô tả dự án
